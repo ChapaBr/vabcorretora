@@ -11,7 +11,7 @@ include('model/PostModel.php');
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center mt-5">
-                <h1 class="tittle-back-white">Blog</h1>
+                <h3 class="tittle-back-white mt-5">Blog</h3>
             </div>
         </div>
 

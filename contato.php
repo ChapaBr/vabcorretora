@@ -8,7 +8,7 @@ include('layouts/header.php');
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 mt-5">
-				<h1>Contato</h1>
+				<h3 class="tittle-back-white mt-5">Contato</h3>
 				<form method="POST" action="controller/Envio.php" id="formContato">
 					<div id="sendmessage">Obrigado por sua mensagem.</div>
 					<div id="errormessage"></div>

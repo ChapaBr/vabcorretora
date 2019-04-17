@@ -7,7 +7,7 @@ include('layouts/header.php'); ?>
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center mt-5">
-                <h1>Cotação - Automóveis</h1>
+                <h3 class="tittle-back-white mt-5">Cotação - Automóveis</h3>
             </div>
         </div>
         <div class="row">
